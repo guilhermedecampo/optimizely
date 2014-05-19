@@ -1,0 +1,8 @@
+{
+  "name": "optimizely",
+  "description": "Optimzely",
+  "homepage": "https://github.com/guilhermedecampo/meteor-optimizely",
+  "author": "Guilherme Decampo",
+  "version": "1.0",
+  "git": "https://github.com/guilhermedecampo/meteor-optimizely.git"
+}
